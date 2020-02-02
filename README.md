@@ -10,6 +10,4 @@ Other links:
 
 All of these projects are available with the intention that other people will enjoy and learn from them. 
 
-# Examples
-
 <p align="center"><img src="https://github.com/erdavids/Flowfields/blob/master/Examples/test.png"></p>
